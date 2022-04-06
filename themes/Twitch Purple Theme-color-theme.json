@@ -1971,7 +1971,7 @@
     "badge.background": "#c4c4c4",
     "badge.foreground": "#333333",
     "terminal.foreground": "#333333",
-    "terminal.selectionBackground": "#00000040",
+    "terminal.selectionBackground": "#7d5bbe",
     "terminalCursor.background": "#7d5bbe",
     "terminalCursor.foreground": "#ffffff",
     "terminal.border": "#80808059",
@@ -2092,6 +2092,7 @@
     "breadcrumb.activeSelectionForeground": "#4e4e4e",
     "editorGutter.commentRangeForeground": "#424242",
     "debugExceptionWidget.background": "#f3f3f3",
-    "debugExceptionWidget.border": "#d5d5d5"
+    "debugExceptionWidget.border": "#d5d5d5",
+    "notebook.cellEditorBackground":"#ffffff"
   }
 }
