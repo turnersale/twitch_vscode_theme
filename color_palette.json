@@ -1,11 +1,24 @@
 {
     "primary": "#6441A4",
+    "primary_20_alpha":"#6441A433",
+    "primary_40_alpha":"#6441A466",
+    "primary_50_alpha":"#6441A480",
+    "primary_60_alpha":"#6441A499",
+    "primary_80_alpha":"#6441A4CC",
+
     "secondary": "#7D5BBE",
+    "secondary_20_alpha":"#7D5BBE33",
+    "secondary_40_alpha":"#7D5BBE66",
+    "secondary_50_alpha":"#7D5BBE80",
+    "secondary_60_alpha":"#7D5BBE99",
+    "secondary_80_alpha":"#7D5BBECC",
+
     "purple_light": "#b09ad7",
     "dark": "#191919",
     "grey_very_dark": "#333333",
     "grey_dark": "#808080",
     "grey_light": "#cccccc",
     "offwhite": "#efebf7",
-    "white": "#ffffff"
+    "white": "#ffffff",
+    "tetrad_pink": "#a34180"
 }

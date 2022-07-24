@@ -1,9 +1,9 @@
 {
-    "name": "twitch-theme",
-    "displayName": "twitch_theme",
+    "name": "twitch-slack-theme",
+    "displayName": "twitch_slack_theme",
     "description": "A purple Twitch inspired theme to match the Slack Twitch theme",
-    "version": "0.0.4",
-    "publisher": "twitchthemepub",
+    "version": "1.0.0",
+    "publisher": "tsale",
     "engines": {
         "vscode": "^1.65.0"
     },
